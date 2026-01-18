@@ -41,6 +41,18 @@
             Console.WriteLine("28. I'm a Star Wars fan");
             Console.WriteLine("29. I'm the youngest of my family");
             Console.WriteLine("30. I gave up smoking weed and I'm sad");
+            Console.Write("Press Enter for the next 31-40 things about me");
+            Console.ReadLine();
+            Console.WriteLine("31. ");
+            Console.WriteLine("32. ");
+            Console.WriteLine("33. ");
+            Console.WriteLine("34. ");
+            Console.WriteLine("35. ");
+            Console.WriteLine("36. ");
+            Console.WriteLine("37. ");
+            Console.WriteLine("38. ");
+            Console.WriteLine("39. ");
+            Console.WriteLine("40. ");
 
             
 
