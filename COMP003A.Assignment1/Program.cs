@@ -64,7 +64,25 @@
             Console.WriteLine("47. I have a neice and a nephew");
             Console.WriteLine("48. I don't have any human kids of my own");
             Console.WriteLine("49. I'm 25 years old");
-            Console.WriteLine("50. I like conspiracy theories"); 
+            Console.WriteLine("50. I like conspiracy theories");
+            Console.Write("Press Enter for the next 51-60 things about me");
+            Console.ReadLine();
+            Console.WriteLine("51. I like hot weather more than the code");
+            Console.WriteLine("52. I like watching sunsets");
+            Console.WriteLine("53. In highschool I played sports");
+            Console.WriteLine("54. I don't like planning things, I just got with the flow");
+            Console.WriteLine("55. I like watching anime");
+            Console.WriteLine("56. I enjoy quiet mornings");
+            Console.WriteLine("57. I sometimes like sleeping in");
+            Console.WriteLine("58. I want to keep growing academically");
+            Console.WriteLine("59. I want to start being healthier");
+            Console.WriteLine("60. My favorite disneyland food is actually in California Adventure Park and it's the quesabirrias");
+            Console.Write("Press enter for the next 61-70 things about me");
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
 
             
 
