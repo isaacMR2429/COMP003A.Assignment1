@@ -17,16 +17,16 @@
             Console.WriteLine("10. I have 2 cats");
             Console.Write("Press Enter for the next 11-20 things about me");
             Console.ReadLine();
-            Console.WriteLine("11. ");
-            Console.WriteLine("12. ");
-            Console.WriteLine("13. ");
-            Console.WriteLine("14. ");
-            Console.WriteLine("15. ");
-            Console.WriteLine("16. ");
-            Console.WriteLine("17. ");
-            Console.WriteLine("18. ");
-            Console.WriteLine("19. ");
-            Console.WriteLine("20. "); 
+            Console.WriteLine("11. I'm studying to be a Mechanical Engineer");
+            Console.WriteLine("12. I'm planning to transfer to Fresno State");
+            Console.WriteLine("13. I got adult resposibilities like paying all the house bills");
+            Console.WriteLine("14. I've been working since Highschool");
+            Console.WriteLine("15. I like learning new skills");
+            Console.WriteLine("16. I'm motivated by my family");
+            Console.WriteLine("17. My girlfriend inspired me to come back to school");
+            Console.WriteLine("18. I love pizza");
+            Console.WriteLine("19. Horchata is my favorite type of water to drink");
+            Console.WriteLine("20. My anniversary with my girlfriend just pass and we're 5 years strong"); 
             
 
         }
