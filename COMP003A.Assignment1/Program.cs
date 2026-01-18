@@ -78,11 +78,18 @@
             Console.WriteLine("59. I want to start being healthier");
             Console.WriteLine("60. My favorite disneyland food is actually in California Adventure Park and it's the quesabirrias");
             Console.Write("Press enter for the next 61-70 things about me");
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
-            Console.WriteLine();
+            Console.ReadLine();
+            Console.WriteLine("61. I'm learning to have patients");
+            Console.WriteLine("62. I like being productive");
+            Console.WriteLine("63. I like to go to the casino");
+            Console.WriteLine("64. I really like playing blackjack");
+            Console.WriteLine("65. I love to bowl");
+            Console.WriteLine("66. I hate country music");
+            Console.WriteLine("67. I like spending time with my girlfriend");
+            Console.WriteLine("68. I stay calm when things get chaotic");
+            Console.WriteLine("69. I think more logically than emotionally ");
+            Console.WriteLine("70. I like drive fast");
+            Console.Write("Press Enter for the next 71-80 things about me");
 
             
 
