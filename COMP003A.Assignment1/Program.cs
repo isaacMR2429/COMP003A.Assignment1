@@ -43,16 +43,19 @@
             Console.WriteLine("30. I gave up smoking weed and I'm sad");
             Console.Write("Press Enter for the next 31-40 things about me");
             Console.ReadLine();
-            Console.WriteLine("31. ");
-            Console.WriteLine("32. ");
-            Console.WriteLine("33. ");
-            Console.WriteLine("34. ");
-            Console.WriteLine("35. ");
-            Console.WriteLine("36. ");
-            Console.WriteLine("37. ");
-            Console.WriteLine("38. ");
-            Console.WriteLine("39. ");
-            Console.WriteLine("40. ");
+            Console.WriteLine("31. I'm a homebody");
+            Console.WriteLine("32. I like going to disneyland");
+            Console.WriteLine("33. I try my best to stay positive");
+            Console.WriteLine("34. I like making people laugh");
+            Console.WriteLine("35. I really appreciate the small moments in life");
+            Console.WriteLine("36. I'm grateful for the people in my life");
+            Console.WriteLine("37. I'm currectly watching rom-com movies");
+            Console.WriteLine("38. I think of my self as a food critique");
+            Console.WriteLine("39. I also think of myseld as a movie critique");
+            Console.WriteLine("40. My favorite genre of video games are RPG fantasy ");
+            Console.Write("Press Enter for the next 41-50 things about me");
+            Console.ReadLine();
+
 
             
 
