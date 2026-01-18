@@ -55,7 +55,16 @@
             Console.WriteLine("40. My favorite genre of video games are RPG fantasy ");
             Console.Write("Press Enter for the next 41-50 things about me");
             Console.ReadLine();
-
+            Console.WriteLine("41. I have a twin");
+            Console.WriteLine("42. I like wearing crocs");
+            Console.WriteLine("43. I only have one pair of pants");
+            Console.WriteLine("44. I don't have any jeans");
+            Console.WriteLine("45. I love to wear baggy clothes");
+            Console.WriteLine("46. I'm excellent driver");
+            Console.WriteLine("47. I have a neice and a nephew");
+            Console.WriteLine("48. I don't have any human kids of my own");
+            Console.WriteLine("49. I'm 25 years old");
+            Console.WriteLine("50. I like conspiracy theories"); 
 
             
 
