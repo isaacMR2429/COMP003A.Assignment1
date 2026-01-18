@@ -21,8 +21,8 @@
             Console.ReadLine();
             Console.WriteLine("11. I'm studying to be a Mechanical Engineer");
             Console.WriteLine("12. I'm planning to transfer to Fresno State");
-            Console.WriteLine("13. I got adult resposibilities like paying all the house bills");
-            Console.WriteLine("14. I've been working since Highschool");
+            Console.WriteLine("13. I got adult responsibilities like paying all the house bills");
+            Console.WriteLine("14. I've been working since high school");
             Console.WriteLine("15. I like learning new skills");
             Console.WriteLine("16. I'm motivated by my family");
             Console.WriteLine("17. My girlfriend inspired me to come back to school");
@@ -50,8 +50,8 @@
             Console.WriteLine("35. I really appreciate the small moments in life");
             Console.WriteLine("36. I'm grateful for the people in my life");
             Console.WriteLine("37. I'm currectly watching rom-com movies");
-            Console.WriteLine("38. I think of my self as a food critique");
-            Console.WriteLine("39. I also think of myseld as a movie critique");
+            Console.WriteLine("38. I think of myself as a food critique");
+            Console.WriteLine("39. I also think of myself as a movie critique");
             Console.WriteLine("40. My favorite genre of video games are RPG fantasy ");
             Console.Write("Press Enter for the next 41-50 things about me");
             Console.ReadLine();
@@ -61,13 +61,13 @@
             Console.WriteLine("44. I don't have any jeans");
             Console.WriteLine("45. I love to wear baggy clothes");
             Console.WriteLine("46. I'm excellent driver");
-            Console.WriteLine("47. I have a neice and a nephew");
+            Console.WriteLine("47. I have a niece and a nephew");
             Console.WriteLine("48. I don't have any human kids of my own");
             Console.WriteLine("49. I'm 25 years old");
             Console.WriteLine("50. I like conspiracy theories");
             Console.Write("Press Enter for the next 51-60 things about me");
             Console.ReadLine();
-            Console.WriteLine("51. I like hot weather more than the code");
+            Console.WriteLine("51. I like hot weather more than the cold");
             Console.WriteLine("52. I like watching sunsets");
             Console.WriteLine("53. In highschool I played sports");
             Console.WriteLine("54. I don't like planning things, I just got with the flow");
@@ -79,7 +79,7 @@
             Console.WriteLine("60. My favorite disneyland food is actually in California Adventure Park and it's the quesabirrias");
             Console.Write("Press enter for the next 61-70 things about me");
             Console.ReadLine();
-            Console.WriteLine("61. I'm learning to have patients");
+            Console.WriteLine("61. I'm learning to have patience");
             Console.WriteLine("62. I like being productive");
             Console.WriteLine("63. I like to go to the casino");
             Console.WriteLine("64. I really like playing blackjack");
@@ -88,9 +88,20 @@
             Console.WriteLine("67. I like spending time with my girlfriend");
             Console.WriteLine("68. I stay calm when things get chaotic");
             Console.WriteLine("69. I think more logically than emotionally ");
-            Console.WriteLine("70. I like drive fast");
+            Console.WriteLine("70. I like driving fast");
             Console.Write("Press Enter for the next 71-80 things about me");
-
+            Console.ReadLine();
+            Console.WriteLine("71. I was bulking");
+            Console.WriteLine("72. I enjoy late night snacks ");
+            Console.WriteLine("73. I like sunny days");
+            Console.WriteLine("74. I like learning random facts");
+            Console.WriteLine("75. I like listening to music while i work");
+            Console.WriteLine("76. I sleep all day on my days off");
+            Console.WriteLine("77. I like learning how things work mechanically");
+            Console.WriteLine("78. I just got a new dog");
+            Console.WriteLine("79. I like keeping my space organized");
+            Console.WriteLine("80. I like helping people when they need advice");
+            Console.Write("Press Enter for the next 81-90 things about me");
             
 
         }
