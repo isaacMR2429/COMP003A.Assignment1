@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             Console.WriteLine("100 Things About Me!");
+            Console.Write("Press Enter to Start");
+            Console.ReadLine();
             Console.WriteLine("1. My name is Isaac");
             Console.WriteLine("2. I like going to the gym");
             Console.WriteLine("3. I work at amazon");
@@ -26,7 +28,20 @@
             Console.WriteLine("17. My girlfriend inspired me to come back to school");
             Console.WriteLine("18. I love pizza");
             Console.WriteLine("19. Horchata is my favorite type of water to drink");
-            Console.WriteLine("20. My anniversary with my girlfriend just pass and we're 5 years strong"); 
+            Console.WriteLine("20. My anniversary with my girlfriend just pass and we're 5 years strong");
+            Console.Write("Press Enter for the next 21-30 things about me");
+            Console.ReadLine();
+            Console.WriteLine("21. ");
+            Console.WriteLine("22. ");
+            Console.WriteLine("23. ");
+            Console.WriteLine("24. ");
+            Console.WriteLine("25. ");
+            Console.WriteLine("26. ");
+            Console.WriteLine("27. ");
+            Console.WriteLine("28. ");
+            Console.WriteLine("29. ");
+            Console.WriteLine("30. ");
+
             
 
         }
