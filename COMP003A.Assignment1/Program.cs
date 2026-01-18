@@ -31,16 +31,16 @@
             Console.WriteLine("20. My anniversary with my girlfriend just pass and we're 5 years strong");
             Console.Write("Press Enter for the next 21-30 things about me");
             Console.ReadLine();
-            Console.WriteLine("21. ");
-            Console.WriteLine("22. ");
-            Console.WriteLine("23. ");
-            Console.WriteLine("24. ");
-            Console.WriteLine("25. ");
-            Console.WriteLine("26. ");
-            Console.WriteLine("27. ");
-            Console.WriteLine("28. ");
-            Console.WriteLine("29. ");
-            Console.WriteLine("30. ");
+            Console.WriteLine("21. I like trying new foods");
+            Console.WriteLine("22. I am not a picky eater");
+            Console.WriteLine("23. I'm starting to like hot coffee");
+            Console.WriteLine("24. I like playing video games");
+            Console.WriteLine("25. I'm the youngest of my family");
+            Console.WriteLine("26. I listen to classical music while doing my homework.");
+            Console.WriteLine("27. My favorite character in Star Wars in Anakin/Darth Vader");
+            Console.WriteLine("28. I'm a Star Wars fan");
+            Console.WriteLine("29. I'm the youngest of my family");
+            Console.WriteLine("30. I gave up smoking weed and I'm sad");
 
             
 
