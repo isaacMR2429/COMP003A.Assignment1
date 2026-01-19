@@ -102,6 +102,29 @@
             Console.WriteLine("79. I like keeping my space organized");
             Console.WriteLine("80. I like helping people when they need advice");
             Console.Write("Press Enter for the next 81-90 things about me");
+            Console.ReadLine();
+            Console.WriteLine("81. I like being around people who motivated me");
+            Console.WriteLine("82. I enjoy watching documentaries");
+            Console.WriteLine("83. I like setting goals for myself");
+            Console.WriteLine("84. I like watching funny videos to relax");
+            Console.WriteLine("85. I enjoy simple routines that keep me grounded");
+            Console.WriteLine("86. I used to be really good at drawing");
+            Console.WriteLine("87. I like harry potter");
+            Console.WriteLine("88. I am a ravenclaw");
+            Console.WriteLine("89. I enjoy trying new restaurants");
+            Console.WriteLine("90. I just wear baggy and comfortable clothes");
+            Console.Write("Press Enter for the next 91-100 things about me");
+            Console.ReadLine();
+            Console.WriteLine("91. I like working 12 hour shifts when I dont have school");
+            Console.WriteLine("92. I dislike people who drink and drive");
+            Console.WriteLine("93. Everyday I strive to become a better version of myself");
+            Console.WriteLine("94. I like carrot cake");
+            Console.WriteLine("95. I know how to dance");
+            Console.WriteLine("96. I don't really drink alcohol");
+            Console.WriteLine("97. I know how to cook");
+            Console.WriteLine("98. I know how to bake");
+            Console.WriteLine("99. I learned to drive thanks to video games");
+            Console.WriteLine("100. I've been playing video games since I was 4 years old");
             
 
         }
