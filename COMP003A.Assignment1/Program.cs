@@ -125,6 +125,7 @@
             Console.WriteLine("98. I know how to bake");
             Console.WriteLine("99. I learned to drive thanks to video games");
             Console.WriteLine("100. I've been playing video games since I was 4 years old");
+            Console.Write("That's 100 things about me");
             
 
         }
